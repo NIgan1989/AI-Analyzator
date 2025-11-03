@@ -1,0 +1,5 @@
+{
+  "name": "Анализатор посещаемости сотрудников",
+  "description": "An application to analyze employee attendance from an Excel file. It identifies late arrivals, early departures, calculates work duration, and provides an AI-powered summary of the attendance data.",
+  "requestFramePermissions": []
+}
